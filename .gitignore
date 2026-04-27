@@ -1,0 +1,15 @@
+# Data folder
+**/chest_xray/
+
+# Python cache
+**/__pycache__/
+**/*.pyc
+
+# Jupyter notebooks của thầy
+**/assignments.ipynb
+**/SMO.ipynb
+**/lagrange-KTT-multiplier.ipynb
+**/preliminaries.ipynb
+
+# System files
+.DS_Store
